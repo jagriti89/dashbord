@@ -1,23 +1,4 @@
-
-// import '../App.css'
-//   // src/components/Sidebar.js
-// import React from 'react';
-
-// const Sidemenu = () => {
-//   return (
-//     <div className="sidebar">
-//       <ul>
-//         <li>Dashboard</li>
-//         <li>Analytics</li>
-//         <li>Settings</li>
-//         {/* Add more items as needed */}
-//       </ul>
-//     </div>
-//   );
-// }
-
-// export default Sidemenu;
-import React from 'react'
+import React from 'react';
 import 
 {BsHeptagon, BsGrid1X2Fill, BsFillArchiveFill, BsFillGrid3X3GapFill, BsPeopleFill, 
   BsClipboardFill, BsFillPatchCheckFill, BsChatDotsFill}
